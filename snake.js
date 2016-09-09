@@ -246,7 +246,7 @@ function gameOver(){
   frontCtx.drawImage(gameOverScreen, 0, 0);
   drawScore();
 }
-
+//Took this from http://atomicrobotdesign.com/blog/web-development/pause-your-html5-canvas-game/
 function pauseGame(){
   if(paused != true){
     clearTimeout(game);
