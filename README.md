@@ -19,3 +19,9 @@ The game is implemented in JavaScript using the HTML5 canvas element using the p
 ## Extra Credit
 1. You may optionally implement obstacles within the game's area.  Should the snake collide with one, the game should end. (10)
 2. A bonus of 10 points is available for exceptionally polished game implementations.
+
+
+REFERENCES:
+http://thecodeplayer.com/walkthrough/html5-game-tutorial-make-a-snake-game-using-html5-canvas-jquery
+http://www.competa.com/blog/2015/05/how-to-build-a-snake-game-using-javascript-and-html5-canvas/
+http://atomicrobotdesign.com/blog/web-development/pause-your-html5-canvas-game/
